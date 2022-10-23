@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+  font-size:medium;
+}
+figure{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #featured-property{
+width: 800px;
+text-align: center;
+  }
+  .nav1 a{
+    padding-left: 10px;
+    padding-right: 10px;
+    background: pink;
+  }
+  div{
+  float: left;
+  text-align: center;
+  background-color: blanchedalmond;
+  width:25%
+  }
