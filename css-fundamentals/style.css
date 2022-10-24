@@ -20,7 +20,7 @@ nav {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
-  background-color: gray;
+  background-color: dimgray;
 }
 
 figcaption {
@@ -32,4 +32,19 @@ figcaption {
   width: 880px;
   display: block;
   margin: 20px auto;
+}
+
+#details {
+  text-align: center;
+  display: block;
+  margin: auto;
+  width: 900px;
+  height: 150px;
+}
+
+.footer {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: dimgray;
 }
