@@ -12,3 +12,24 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.5em;
+}
+
+#featured-property p {
+  width: 880px;
+  display: block;
+  margin: 20px auto;
+}
